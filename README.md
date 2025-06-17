@@ -1,2 +1,2 @@
-# purelyblank-vim
+# Vim Configuration
 My vim configuration file
